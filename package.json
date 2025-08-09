@@ -52,7 +52,7 @@
     "js-cookie": "^3.0.5",
     "lucide-react": "^0.452.0",
     "luxon": "^3.5.0",
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.1.5",
     "nanostores": "^0.11.3",
     "node-html-parser": "^6.1.13",
     "npm-check-updates": "^17.1.3",
